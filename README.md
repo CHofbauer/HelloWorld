@@ -1,3 +1,1 @@
-/* 
- * This readme is now C style syntax
- */
+// This readme is now C style syntax
