@@ -1,5 +1,3 @@
-# HelloWorld
-HelloWorld_firstReop
-
-
-//edited readme line
+/* 
+ * This readme is now C style syntax
+ */
